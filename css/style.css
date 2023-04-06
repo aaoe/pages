@@ -24,7 +24,7 @@ body {
 .center-list{
 	display: flex;                /*设置为flex布局*/
 	width: 100%;
-	margin: 0 20%;
+	margin: 0 10%;
 	}
 .centerBody{
 	width: 100%;
